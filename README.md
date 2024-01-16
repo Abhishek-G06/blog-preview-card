@@ -18,6 +18,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
+### Screenshot
+
+![QR code component screenshot](https://github.com/Abhishek-G06/blog-preview-card/blob/7ddffab54802d6b0bb059b853435a649fea8ab0c/design/desktop-design.jpg)
+
 ### The challenge
 
 Users should be able to:
@@ -53,4 +57,4 @@ Need to work on the landscape mode and work on the feedback from other learners.
 
 ## Acknowledgments
 
-I would to thank my family and friends and obviously to Frontend Mentor and its community for providing such an amazing opportunity to practice and grow my skills.
+I would like to thank Frontend Mentor and its community for providing such an amazing opportunity to practice and grow my skills.
