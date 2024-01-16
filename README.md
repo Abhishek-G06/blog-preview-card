@@ -48,7 +48,7 @@ Need to work on the landscape mode and work on the feedback from other learners.
 
 ## Author
 
-- Frontend Mentor - [@Abhishek-G06]
+- Frontend Mentor - [@Abhishek-G06](https://www.frontendmentor.io/profile/Abhishek-G06)
 - LinkedIn - [@Abhishek Gupta](https://www.linkedin.com/in/abhishek-gupta-667229189/)
 
 ## Acknowledgments
